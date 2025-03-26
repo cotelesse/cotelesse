@@ -1,7 +1,7 @@
 # 👋 Hi there! Welcome my GitHub!!
 <br>
 
-## 🚀 Sobre mim 
+## 🚀 About Me 
 🎓 I'm Oil & Gas Engineer with experience in calibration the instrument, fiscal measurements and suport technical in the oil & gas.
 💡 Today, i'm expanding my knowledgein the area off tecnology and studying programming on **DevClub**.
 <br>
